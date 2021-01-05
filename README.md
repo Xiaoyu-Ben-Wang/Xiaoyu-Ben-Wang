@@ -9,7 +9,12 @@
 | ----------------------- | ------------------------------------------------------------------------------------------------------------- |
 | **Web Development**     | ![JavaScript](assets/javascript_24x24.png) <img alt="ReactJS, React Native" src="assets/react.svg" height=24> |
 | **Data Science, ML/AI** | <img alt="Jupyter" src="assets/jupyter.png" width=24>                                                         |
-## Check out Some o
+
+## Check Out Some of My Projects 👇
+### Web Scraping ![Python](assets/python_24x24.png) and Data Science <img alt="Jupyter" src="assets/jupyter.png" width=24>
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=xiaoyu-ben-wang&repo=covid-ahs-project)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **Xiaoyu-Ben-Wang/Xiaoyu-Ben-Wang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
