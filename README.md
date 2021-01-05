@@ -1,5 +1,15 @@
-### Hi there 👋
+# Hi There 👋 I'm Ben
+### I'm interested in Full Stack work, AI/Reinforcement Learning, and Coding Challenges
 
+
+[![Ben's Github Stats](https://github-readme-stats.vercel.app/api?username=xiaoyu-ben-wang)](https://github.com/anuraghazra/github-readme-stats)
+
+## Languages + Technologies
+| **General**             | ![Python](assets/python_24x24.png) ![C](assets/c_24x24.png) ![C++](assets/cpp_24x24.png)                      |
+| ----------------------- | ------------------------------------------------------------------------------------------------------------- |
+| **Web Development**     | ![JavaScript](assets/javascript_24x24.png) <img alt="ReactJS, React Native" src="assets/react.svg" height=24> |
+| **Data Science, ML/AI** | <img alt="Jupyter" src="assets/jupyter.png" width=24>                                                         |
+## Check out Some o
 <!--
 **Xiaoyu-Ben-Wang/Xiaoyu-Ben-Wang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
