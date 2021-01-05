@@ -12,8 +12,19 @@
 
 ## Check Out Some of My Projects 👇
 ### Web Scraping ![Python](assets/python_24x24.png) and Data Science <img alt="Jupyter" src="assets/jupyter.svg" height=24>
-
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=xiaoyu-ben-wang&repo=covid-ahs-project)](https://github.com/anuraghazra/github-readme-stats)
+
+
+### For Fun!
+🐱Kattis Programming Competition
+<br>
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=xiaoyu-ben-wang&repo=programming-solutions)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+🎄 Christmas Coding Challenges
+<br>
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=xiaoyu-ben-wang&repo=advent-of-code)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **Xiaoyu-Ben-Wang/Xiaoyu-Ben-Wang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
