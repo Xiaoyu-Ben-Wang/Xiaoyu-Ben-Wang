@@ -2,7 +2,7 @@
 ### I'm interested in Full Stack work, AI/Reinforcement Learning, and Coding Challenges
 
 
-[![Ben's Github Stats](https://github-readme-stats.vercel.app/api?username=xiaoyu-ben-wang)](https://github.com/anuraghazra/github-readme-stats)
+[![Ben's Github Stats](https://github-readme-stats.vercel.app/api?username=xiaoyu-ben-wang&show_icons=true&count_private=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Languages + Technologies
 | **General**             | ![Python](assets/python_24x24.png) ![C](assets/c_24x24.png) ![C++](assets/cpp_24x24.png)                      |
