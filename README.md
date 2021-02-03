@@ -12,36 +12,24 @@
 
 ## Check Out Some of My Projects 👇
 
-### App Development <img alt="React Native" src="assets/react.svg" height=32>
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=zeyu-li&repo=kitchen-dash)
+### App Development <img alt="React Native" src="assets/react.svg" height=32> ![JavaScript](assets/javascript.png)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=zeyu-li&repo=kitchen-dash)](https://github.com/zeyu-li/kitchen-dash)
 
 
-### Web Scraping ![Python](assets/python.png) and Data Science <img alt="Jupyter" src="assets/jupyter.svg" height=24>
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=xiaoyu-ben-wang&repo=covid-ahs-project)
+### Web Scraping and Data Science ![Python](assets/python.png) <img alt="Jupyter" src="assets/jupyter.svg" height=24>
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=xiaoyu-ben-wang&repo=covid-ahs-project)](https://github.com/Xiaoyu-Ben-Wang/covid-ahs-project)
 
 
 ### For Fun!
 🐱Kattis Programming Competition
 <br>
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=xiaoyu-ben-wang&repo=programming-solutions)](https://github.com/anuraghazra/github-readme-stats)
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=xiaoyu-ben-wang&repo=programming-solutions)](https://github.com/Xiaoyu-Ben-Wang/programming-solutions)
 
 
 
 🎄 Christmas Coding Challenges
 <br>
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=xiaoyu-ben-wang&repo=advent-of-code)](https://github.com/anuraghazra/github-readme-stats)
 
-<!--
-**Xiaoyu-Ben-Wang/Xiaoyu-Ben-Wang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=xiaoyu-ben-wang&repo=advent-of-code)](https://github.com/Xiaoyu-Ben-Wang/advent-of-code)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
