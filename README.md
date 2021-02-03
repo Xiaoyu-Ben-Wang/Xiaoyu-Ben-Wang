@@ -5,14 +5,19 @@
 [![Ben's Github Stats](https://github-readme-stats.vercel.app/api?username=xiaoyu-ben-wang&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Languages + Technologies
-| **General**             | ![Python](assets/python_24x24.png) ![C](assets/c_24x24.png) ![C++](assets/cpp_24x24.png)                      |
-| ----------------------- | ------------------------------------------------------------------------------------------------------------- |
-| **Web Development**     | ![JavaScript](assets/javascript_24x24.png) <img alt="ReactJS, React Native" src="assets/react.svg" height=24> |
-| **Data Science, ML/AI** | <img alt="Jupyter" src="assets/jupyter.svg" height=24>                                                        |
+| **General**             | ![Python](assets/python.png) ![C](assets/c.png) ![C++](assets/cpp.png)  <img alt="RISC-V" src="assets/riscv.png" height=32> |
+| ----------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **Web Development**     | ![JavaScript](assets/javascript.png) <img alt="ReactJS, React Native" src="assets/react.svg" height=32> ![HTML5](assets/html5.png) ![CSS3](assets/css3.png)                                               |
+| **Data Science, ML/AI** | <img alt="Jupyter" src="assets/jupyter.svg" height=32> <img alt="SciKit" src="assets/scikit.png" height=32>                                                                                                       |
 
 ## Check Out Some of My Projects 👇
-### Web Scraping ![Python](assets/python_24x24.png) and Data Science <img alt="Jupyter" src="assets/jupyter.svg" height=24>
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=xiaoyu-ben-wang&repo=covid-ahs-project)](https://github.com/anuraghazra/github-readme-stats)
+
+### App Development <img alt="React Native" src="assets/react.svg" height=32>
+![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=zeyu-li&repo=kitchen-dash)
+
+
+### Web Scraping ![Python](assets/python.png) and Data Science <img alt="Jupyter" src="assets/jupyter.svg" height=24>
+![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=xiaoyu-ben-wang&repo=covid-ahs-project)
 
 
 ### For Fun!
