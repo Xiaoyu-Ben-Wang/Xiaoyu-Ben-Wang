@@ -12,6 +12,9 @@
 
 ## Check Out Some of My Projects 👇
 
+### Machine Learning and Data Science (STEMFellowship National Undergraduate Big Data Challenge Winner)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=xiaoyu-ben-wang&repo=DeepReli)](https://github.com/Xiaoyu-Ben-Wang/DeepReli)
+
 ### App Development <img alt="React Native" src="assets/react.svg" height=32> ![JavaScript](assets/javascript.png)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=zeyu-li&repo=kitchen-dash)](https://github.com/zeyu-li/kitchen-dash)
 
