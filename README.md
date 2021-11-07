@@ -79,7 +79,7 @@
 ## For Fun!
 ### 🐱Kattis Programming Competition
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=xiaoyu-ben-wang&repo=programming-solutions)](https://github.com/Xiaoyu-Ben-Wang/programming-solutions)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=xiaoyu-ben-wang&repo=kattis)](https://github.com/Xiaoyu-Ben-Wang/kattis)
 
 
 
