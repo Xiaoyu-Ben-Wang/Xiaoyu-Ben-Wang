@@ -68,7 +68,7 @@
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=KolbyML&repo=Phionthrium)](https://github.com/zeyu-li/kitchen-dash)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=KolbyML&repo=Phionthrium)](https://github.com/KolbyML/Phionthrium)
 
 <br>
 
