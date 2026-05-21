@@ -3,6 +3,8 @@
 
 [![Ben's Github Stats](https://github-readme-stats.vercel.app/api?username=xiaoyu-ben-wang&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Profile Summary](https://img.shields.io/badge/Profile_Summary-View-2ea44f?style=for-the-badge&logo=github)](https://profile-summary-for-github.com/user/Xiaoyu-Ben-Wang)
+
 <table>
     <tr>
         <th>Languages</th>
