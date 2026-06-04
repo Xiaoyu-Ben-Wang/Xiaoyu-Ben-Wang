@@ -1,14 +1,15 @@
 # Hi There 👋 I'm Ben
 ### I'm interested in Full Stack Development, Data Science/Machine Learning, and Coding Challenges
 
+
 [![Ben's Github Stats](https://github-readme-stats.vercel.app/api?username=xiaoyu-ben-wang&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Profile Summary](https://img.shields.io/badge/Profile_Summary-View-2ea44f?style=for-the-badge&logo=github)](https://profile-summary-for-github.com/user/Xiaoyu-Ben-Wang)
 
 <table>
     <tr>
-        <th>Languages</th>
-        <td>
+        <th><h3>Languages</h3></th>
+        <th>
             <img alt="Python" src="assets/python.svg" height="48">
             <img alt="Java" src="assets/java.svg" height="48">
             <img alt="JavaScript" src="assets/javascript.svg" height="48">
@@ -18,11 +19,11 @@
             <img alt="C" src="assets/c.svg" height="48">
             <img alt="C++" src="assets/cpp.svg" height="48">
             <img alt="RISC-V" src="assets/riscv.svg" height="48">
-        </td>
+        </th>
     </tr>
     <tr>
-        <th>Frameworks & Technologies</th>
-        <td>
+        <th><h3>Frameworks & Technologies</h3></th>
+        <th>
             <img alt="Django" src="assets/django.svg" height="48">
             <img alt="Flask" src="assets/flask.svg" height="48">
             <img alt="Java Spring" src="assets/javaspring.svg" height="48">
@@ -32,7 +33,7 @@
             <img alt="Firebase" src="assets/firebase.svg" height="48">
             <img alt="Heroku" src="assets/heroku.svg" height="48">
             <img alt="Git" src="assets/git.svg" height="48">
-        </td>
+        </th>
     </tr>
 </table>
 <br>
@@ -56,6 +57,7 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Xiaoyu-Ben-Wang&repo=degrees-of-change)](https://github.com/Xiaoyu-Ben-Wang/degrees-of-change)
 
@@ -100,19 +102,20 @@
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Xiaoyu-Ben-Wang&repo=WiseTrack)](https://github.com/Xiaoyu-Ben-Wang/WiseTrack)
 
-<br>
 
 ## For Fun!
-### 🎄 Advent of Code
-
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=xiaoyu-ben-wang&repo=advent-of-code)](https://github.com/Xiaoyu-Ben-Wang/advent-of-code)
-
 ### 🐱 Kattis
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=xiaoyu-ben-wang&repo=kattis)](https://github.com/Xiaoyu-Ben-Wang/kattis)
+
+
+
+### 🎄 Advent of Code
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=xiaoyu-ben-wang&repo=advent-of-code)](https://github.com/Xiaoyu-Ben-Wang/advent-of-code)
