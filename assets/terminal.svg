@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="220" viewBox="0 0 880 220" role="img" aria-labelledby="ttl desc">
+  <title id="ttl">Ben Wang — terminal session</title>
+  <desc id="desc">A terminal window titled ben@vancouver — zsh. The command whoami returns Ben Wang, Vancouver, Canada, and cat ~/focus.txt returns Full-Stack Development, Data Science / Machine Learning, and Networking &amp; Systems.</desc>
+
+  <defs>
+    <clipPath id="win">
+      <rect x="1" y="1" width="878" height="218" rx="10"/>
+    </clipPath>
+  </defs>
+
+  <style>
+    .mono  { font-family: ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, "DejaVu Sans Mono", monospace; }
+    .pr    { font-size: 15px; fill: #98c379; font-weight: 600; }
+    .cmd   { font-size: 15px; fill: #abb2bf; }
+    .out   { font-size: 15px; fill: #98c379; }
+    .name  { font-size: 18px; fill: #61afef; font-weight: 600; }
+    .dim   { font-size: 14px; fill: #7f8794; }
+    .title { font-size: 12.5px; fill: #6b7480; }
+    .cursor{ animation: blink 1.15s steps(1, end) infinite; }
+    @keyframes blink { 0%, 50% { opacity: 1; } 50.01%, 100% { opacity: 0; } }
+    @media (prefers-reduced-motion: reduce) { .cursor { animation: none; } }
+  </style>
+
+  <!-- window -->
+  <rect x="1" y="1" width="878" height="218" rx="10" fill="#282c34" stroke="#3b4048" stroke-width="1.5"/>
+  <g clip-path="url(#win)">
+    <rect x="1" y="1" width="878" height="41" fill="#21252b"/>
+    <line x1="1" y1="42.5" x2="879" y2="42.5" stroke="#3b4048" stroke-width="1"/>
+  </g>
+
+  <!-- traffic lights, One Dark tones -->
+  <circle cx="24" cy="21" r="6" fill="#e06c75"/>
+  <circle cx="44" cy="21" r="6" fill="#e5c07b"/>
+  <circle cx="64" cy="21" r="6" fill="#98c379"/>
+
+  <text class="mono title" x="440" y="26" text-anchor="middle">ben@vancouver — zsh</text>
+
+  <!-- session -->
+  <g class="mono">
+    <text class="pr"   x="28" y="78">$</text>
+    <text class="cmd"  x="46" y="78">whoami</text>
+
+    <text class="name" x="28" y="108">Ben Wang</text>
+    <text class="dim"  x="130" y="108">·  Vancouver, Canada</text>
+
+    <text class="pr"   x="28" y="146">$</text>
+    <text class="cmd"  x="46" y="146">cat ~/focus.txt</text>
+
+    <text class="out"  x="28" y="174">Full-Stack Development  ·  Data Science / Machine Learning  ·  Networking &amp; Systems</text>
+
+    <text class="pr"   x="28" y="204">$</text>
+    <rect class="cursor" x="46" y="190" width="9" height="16" fill="#98c379"/>
+  </g>
+</svg>

@@ -1,121 +1,76 @@
-# Hi There 👋 I'm Ben
-### I'm interested in Full Stack Development, Data Science/Machine Learning, and Coding Challenges
+<div align="center">
 
-
-[![Ben's Github Stats](https://github-readme-stats.vercel.app/api?username=xiaoyu-ben-wang&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Profile Summary](https://img.shields.io/badge/Profile_Summary-View-2ea44f?style=for-the-badge&logo=github)](https://profile-summary-for-github.com/user/Xiaoyu-Ben-Wang)
-
-<table>
-    <tr>
-        <th><h3>Languages</h3></th>
-        <th>
-            <img alt="Python" src="assets/python.svg" height="48">
-            <img alt="Java" src="assets/java.svg" height="48">
-            <img alt="JavaScript" src="assets/javascript.svg" height="48">
-            <img alt="TypeScript" src="assets/typescript.svg" height="48">
-            <img alt="HTML" src="assets/html5.svg" height="48">
-            <img alt="CSS3" src="assets/css3.svg" height="48">
-            <img alt="C" src="assets/c.svg" height="48">
-            <img alt="C++" src="assets/cpp.svg" height="48">
-            <img alt="RISC-V" src="assets/riscv.svg" height="48">
-        </th>
-    </tr>
-    <tr>
-        <th><h3>Frameworks & Technologies</h3></th>
-        <th>
-            <img alt="Django" src="assets/django.svg" height="48">
-            <img alt="Flask" src="assets/flask.svg" height="48">
-            <img alt="Java Spring" src="assets/javaspring.svg" height="48">
-            <img alt="React" src="assets/react.svg" height="48">
-            <img alt="PostgreSQL" src="assets/postgresql.svg" height="48">
-            <img alt="MongoDB" src="assets/mongodb.svg" height="48">
-            <img alt="Firebase" src="assets/firebase.svg" height="48">
-            <img alt="Heroku" src="assets/heroku.svg" height="48">
-            <img alt="Git" src="assets/git.svg" height="48">
-        </th>
-    </tr>
-</table>
-<br>
-
-## Check Out Some of My Projects 👇
-### 💻 Hackathons
-
-
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=xiaoyu-ben-wang&repo=DeepReli)](https://github.com/Xiaoyu-Ben-Wang/DeepReli)
+<img src="assets/terminal.svg" width="100%" alt="A terminal window titled ben@vancouver — zsh, showing the name Ben Wang in block letters, and the command cat ~/focus.txt returning: Full-Stack Development, Data Science / Machine Learning, Networking &amp; Systems" />
 
 <br>
 
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+<a href="mailto:xiaoyu.ben.wang@gmail.com"><img src="https://img.shields.io/badge/email-xiaoyu.ben.wang@gmail.com-98c379?style=flat-square&logo=gmail&logoColor=21252b&labelColor=21252b" alt="Email" /></a>
+<a href="https://www.linkedin.com/in/xiaoyuwang99/"><img src="https://img.shields.io/badge/LinkedIn-connect-61afef?style=flat-square&logo=linkedin&logoColor=21252b&labelColor=21252b" alt="LinkedIn" /></a>
+<img src="https://img.shields.io/badge/Vancouver-Canada-abb2bf?style=flat-square&logo=googlemaps&logoColor=21252b&labelColor=21252b" alt="Vancouver, Canada" />
 
+</div>
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Xiaoyu-Ben-Wang&repo=degrees-of-change)](https://github.com/Xiaoyu-Ben-Wang/degrees-of-change)
+---
 
-<br>
+### <samp>&nbsp;$ ls ~/stack</samp>
 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
+<div align="center">
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=KolbyML&repo=Phionthrium)](https://github.com/KolbyML/Phionthrium)
+<img src="https://skillicons.dev/icons?i=py,java,js,ts,html,css,c,cpp,bash,regex,django,flask,spring,react,postgres,mongodb,firebase,sqlite,git,github,aws,heroku,figma,androidstudio,tensorflow&theme=dark&perline=13" alt="Python, Java, JavaScript, TypeScript, HTML, CSS, C, C++, Bash, Regex, Django, Flask, Spring, React, PostgreSQL, MongoDB, Firebase, SQLite, Git, GitHub, AWS, Heroku, Figma, Android Studio, TensorFlow" />
+
+</div>
 
 <br>
 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+### <samp>&nbsp;$ cat ~/stats</samp>
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=zeyu-li&repo=Kitchen-dash)](https://github.com/zeyu-li/kitchen-dash)
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Xiaoyu-Ben-Wang&theme=github_dark" alt="1.16k contributions, 10 public repos, joined GitHub 6 years ago, Vancouver Canada" />
+<br>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Xiaoyu-Ben-Wang&theme=github_dark" alt="Top languages by commit: Java, Python, JavaScript, TypeScript, Jupyter Notebook" />
+
+</div>
 
 <br>
 
-### 📖 Course Projects
+### <samp>&nbsp;$ ls ~/work</samp>
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
+| &nbsp; | Project | What it does | Built with |
+| :--- | :--- | :--- | :--- |
+| ▸ | **[DeepReli](https://github.com/Xiaoyu-Ben-Wang/DeepReli)** | Detecting COVID-19 misinformation with NLP and deep learning | `Python` `TensorFlow` `Keras` `NumPy` `Pandas` |
+| ▸ | **[degrees-of-change](https://github.com/Xiaoyu-Ben-Wang/degrees-of-change)** | Explore the effects of climate change across Canada in 3D | `TypeScript` `React` `Flask` `SQLite` |
+| ▸ | **[WiseTrack](https://github.com/Xiaoyu-Ben-Wang/WiseTrack)** | Android fitness tracker for logging and visualizing workouts | `Java` `Android` `Firebase` `Figma` |
+| ▸ | **[CMPUT404-project-socialdistribution](https://github.com/CMPUT404F21-Very-Good-Team/CMPUT404-project-socialdistribution)** | Distributed social network built against a shared REST API spec | `Django REST` `React` `PostgreSQL` `Heroku` |
+| ▸ | **[kattis](https://github.com/Xiaoyu-Ben-Wang/kattis)** | 22 solutions to Kattis algorithmic challenges | `Python` `C++` |
+| ▸ | **[advent-of-code](https://github.com/Xiaoyu-Ben-Wang/advent-of-code)** | 100+ Advent of Code solutions across multiple years | `Python` `C++` |
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=CMPUT404F21-Very-Good-Team&repo=CMPUT404-project-socialdistribution)](https://github.com/CMPUT404F21-Very-Good-Team/CMPUT404-project-socialdistribution)
+<details>
+<summary>&nbsp;&nbsp;<samp>$ ls ~/work/team --all</samp> &nbsp;<em>collaborative builds</em></summary>
 
 <br>
 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+| &nbsp; | Project | What it does | Built with |
+| :--- | :--- | :--- | :--- |
+| ▸ | **[Phionthrium](https://github.com/KolbyML/Phionthrium)** | Hackathon build — blockchain-backed web app | `JavaScript` `React` `Flask` `AWS` `Solidity` |
+| ▸ | **[Kitchen Dash](https://github.com/zeyu-li/kitchen-dash)** | Hackathon build — mobile ordering app | `React Native` `Firebase` |
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Xiaoyu-Ben-Wang&repo=WiseTrack)](https://github.com/Xiaoyu-Ben-Wang/WiseTrack)
+<sub>Team hackathon projects — credit shared with the linked accounts.</sub>
 
+</details>
 
-## For Fun!
-### 🐱 Kattis
+<br>
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+### <samp>&nbsp;$ echo $CONTACT</samp>
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=xiaoyu-ben-wang&repo=kattis)](https://github.com/Xiaoyu-Ben-Wang/kattis)
+<div align="center">
+<br>
 
+<a href="mailto:xiaoyu.ben.wang@gmail.com"><img src="https://img.shields.io/badge/gmail-xiaoyu.ben.wang@gmail.com-e06c75?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://www.linkedin.com/in/xiaoyuwang99/"><img src="https://img.shields.io/badge/linkedin-connect-61afef?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 
+<br><br>
 
-### 🎄 Advent of Code
+<samp>Open to interesting problems. Say hi.</samp>
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=xiaoyu-ben-wang&repo=advent-of-code)](https://github.com/Xiaoyu-Ben-Wang/advent-of-code)
+</div>
