@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/terminal.svg" width="100%" alt="A terminal window titled ben@vancouver — zsh, showing the name Ben Wang in block letters, and the command cat ~/focus.txt returning: Full-Stack Development, Data Science / Machine Learning, Networking &amp; Systems" />
+<img src="assets/terminal.svg" width="100%" alt="A terminal window titled ben@vancouver — zsh. The command whoami returns Ben Wang, and echo $LOCATION returns Vancouver, Canada." />
 
 <br>
 
@@ -26,9 +26,9 @@
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Xiaoyu-Ben-Wang&theme=github_dark" alt="1.16k contributions, 10 public repos, joined GitHub 6 years ago, Vancouver Canada" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Xiaoyu-Ben-Wang&theme=onedark&bg_color=282c34&title_color=61afef&text_color=abb2bf&icon_color=98c379&chart_color=98c379" alt="1.17k contributions, 10 public repos, joined GitHub 6 years ago, Vancouver Canada" />
 <br>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Xiaoyu-Ben-Wang&theme=github_dark" alt="Top languages by commit: Java, Python, JavaScript, TypeScript, Jupyter Notebook" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Xiaoyu-Ben-Wang&theme=onedark&bg_color=282c34&title_color=61afef&text_color=abb2bf" alt="Top languages by commit: Java, Python, JavaScript, TypeScript, Jupyter Notebook" />
 
 </div>
 
