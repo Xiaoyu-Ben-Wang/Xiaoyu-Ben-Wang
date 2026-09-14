@@ -2,7 +2,6 @@
 
 <img src="assets/terminal.svg" width="100%" alt="A terminal window titled ben@vancouver — zsh. The command whoami returns Ben Wang, and echo $LOCATION returns Vancouver, Canada." />
 
-<br>
 
 
 </div>
