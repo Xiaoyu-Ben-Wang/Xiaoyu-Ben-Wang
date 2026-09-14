@@ -4,9 +4,6 @@
 
 <br>
 
-<a href="mailto:xiaoyu.ben.wang@gmail.com"><img src="https://img.shields.io/badge/email-xiaoyu.ben.wang@gmail.com-98c379?style=flat-square&logo=gmail&logoColor=21252b&labelColor=21252b" alt="Email" /></a>
-<a href="https://www.linkedin.com/in/xiaoyuwang99/"><img src="https://img.shields.io/badge/LinkedIn-connect-61afef?style=flat-square&logo=linkedin&logoColor=21252b&labelColor=21252b" alt="LinkedIn" /></a>
-<img src="https://img.shields.io/badge/Vancouver-Canada-abb2bf?style=flat-square&logo=googlemaps&logoColor=21252b&labelColor=21252b" alt="Vancouver, Canada" />
 
 </div>
 
