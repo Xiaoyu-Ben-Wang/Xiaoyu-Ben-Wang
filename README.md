@@ -6,9 +6,6 @@
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Xiaoyu-Ben-Wang&theme=onedark&bg_color=282c34&title_color=61afef&text_color=abb2bf&icon_color=98c379&chart_color=98c379" width="35%" alt="Total stars, commits, pull requests, issues, and contributed-to repositories" /> <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Xiaoyu-Ben-Wang&theme=onedark&bg_color=282c34&title_color=61afef&text_color=abb2bf&icon_color=98c379&chart_color=98c379" width="35%" alt="Languages ranked by number of commits" />
 
-<br>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Xiaoyu-Ben-Wang&theme=onedark&bg_color=282c34&title_color=61afef&text_color=abb2bf&icon_color=98c379&chart_color=98c379" width="49%" alt="Languages ranked by number of repositories" /> <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Xiaoyu-Ben-Wang&theme=onedark&bg_color=282c34&title_color=61afef&text_color=abb2bf&icon_color=98c379&chart_color=98c379&utcOffset=-8" width="49%" alt="Commits by hour of day, in Pacific time" />
 
 </div>
 
