@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Xiaoyu-Ben-Wang&theme=onedark&bg_color=282c34&title_color=61afef&text_color=abb2bf&icon_color=98c379&chart_color=98c379" width="100%" alt="GitHub profile summary for Xiaoyu-Ben-Wang: contributions over the last year, public repositories, join year, and location" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Xiaoyu-Ben-Wang&theme=onedark&bg_color=282c34&title_color=61afef&text_color=abb2bf&icon_color=98c379&chart_color=98c379" width="70%" alt="GitHub profile summary for Xiaoyu-Ben-Wang: contributions over the last year, public repositories, join year, and location" />
 
 <br>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Xiaoyu-Ben-Wang&theme=onedark&bg_color=282c34&title_color=61afef&text_color=abb2bf&icon_color=98c379&chart_color=98c379" width="49%" alt="Total stars, commits, pull requests, issues, and contributed-to repositories" /> <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Xiaoyu-Ben-Wang&theme=onedark&bg_color=282c34&title_color=61afef&text_color=abb2bf&icon_color=98c379&chart_color=98c379" width="49%" alt="Languages ranked by number of commits" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Xiaoyu-Ben-Wang&theme=onedark&bg_color=282c34&title_color=61afef&text_color=abb2bf&icon_color=98c379&chart_color=98c379" width="35%" alt="Total stars, commits, pull requests, issues, and contributed-to repositories" /> <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Xiaoyu-Ben-Wang&theme=onedark&bg_color=282c34&title_color=61afef&text_color=abb2bf&icon_color=98c379&chart_color=98c379" width="35%" alt="Languages ranked by number of commits" />
 
 <br>
 
