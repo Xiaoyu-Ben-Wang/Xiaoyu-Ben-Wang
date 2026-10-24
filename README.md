@@ -15,6 +15,7 @@
 
 | Project | What it does | Built with |
 | :--- | :--- | :--- |
+| **[ascii-maker](https://github.com/Xiaoyu-Ben-Wang/ascii-maker)**<br><sub>[editor ↗](https://xiaoyu-ben-wang.github.io/ascii-maker/)</sub> | Turns photos and videos into ASCII art, cross-stitch, hatching, halftone dots and dithered pixel art, in a browser editor or from the command line | `TypeScript` `React` `WebGL2` |
 | **[PDFConsolidator](https://github.com/Xiaoyu-Ben-Wang/PDFConsolidator)**<br><sub>[download ↗](https://github.com/Xiaoyu-Ben-Wang/PDFConsolidator/releases/latest)</sub> | A Windows desktop app that merges a mix of Word, Excel, PowerPoint, Outlook emails, images and PDFs into one PDF — arrange, rotate and trim pages first; runs fully offline | `Python` `Qt` `LibreOffice` |
 | **[diagrams-and-dossiers](https://github.com/Xiaoyu-Ben-Wang/diagrams-and-dossiers)**<br><sub>[demo↗](https://xiaoyu-ben-wang.github.io/diagrams-and-dossiers/demo)</sub> | A collaborative detective board for a D&D group — long-form articles pinned to a corkboard, notes on tacks, red yarn run between them | `TypeScript` `React` `Vite` `Supabase` |
 | **[beyond20-remix](https://github.com/Xiaoyu-Ben-Wang/beyond20-remix/tree/feature/roll20-quick-roll-launcher)**<br><sub>[site ↗](https://xiaoyu-ben-wang.github.io/beyond20-remix/)</sub> | A customized fork of Beyond20, the D&D Beyond to Roll20 sheet bridge — adds a Roll20 quick roll launcher and rebuilds the docs site | `JavaScript` `Browser extension` `Jekyll` |
